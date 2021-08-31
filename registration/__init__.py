@@ -1,0 +1,1 @@
+from registration.rigid_registration import rigid_registration
